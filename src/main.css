@@ -1,3 +1,6 @@
+body{
+  background-color: #E5CCFE;
+}
 .pixel {
   height: 15px;
   width: 15px ;
@@ -9,10 +12,15 @@
 
   border: 1px solid grey;
   border-radius: 50%;
-  float:left
+  float:left;
+  cursor: url(http://icons.iconarchive.com/icons/icons8/windows-8/32/Editing-Color-Dropper-icon.png) 0 32, auto;
+
 }
 h1 {
   color: grey;
   text-align: center;
   font-family: sans-serif;
+}
+#canvas {
+  cursor: url(http://icons.iconarchive.com/icons/icons8/windows-8/32/Diy-Paint-Brush-icon.png) 20 10, auto;
 }
