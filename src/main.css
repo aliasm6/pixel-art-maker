@@ -1,0 +1,18 @@
+.pixel {
+  height: 15px;
+  width: 15px ;
+  background: white;
+  border: 1px solid grey;
+  float:left
+}
+.styling {
+
+  border: 1px solid grey;
+  border-radius: 50%;
+  float:left
+}
+h1 {
+  color: grey;
+  text-align: center;
+  font-family: sans-serif;
+}
